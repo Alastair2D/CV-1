@@ -63,4 +63,4 @@ TBC
 ## Experience
 
 **First Direct** (September 2017 - July 2018)  
- §_Sales & Service Representative_
+ _Sales & Service Representative_
