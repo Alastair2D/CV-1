@@ -30,7 +30,7 @@ A 16 week intensive coding course, which includes and emphasises the following:
 
 | Project (Linked to Repo) | Timeframe | Description | Technologies used |
 | ------------------------ | --------- | ----------- | ----------------- |
-|[Bank Tech Test] (https://github.com/hjpugh/bank-tech-test-java)| 2 days| This was the project was my first ever experience with Java and was a mock tech test where the intention was to produce high quality, easy to understand, maintainable code. Given the short time-frame, and that I'd never used Java before, I was happy with the end product. |Java, Junit Gradle|
+|[Bank Tech Test](https://github.com/hjpugh/bank-tech-test-java)| 2 days| This was the project was my first ever experience with Java and was a mock tech test where the intention was to produce high quality, easy to understand, maintainable code. Given the short time-frame, and that I'd never used Java before, I was happy with the end product. |Java, Junit Gradle|
 
 
 #### University of Leeds (2014 - 2017)
