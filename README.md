@@ -4,6 +4,8 @@
 
 <p align="center"> |<a href="#about_me">About Me</a> | <a href="#education">Education</a> | <a href="#skills">Skills</a> | <a href="#experience">Experience</a> | <a href="https://www.linkedin.com/in/harry-james-348862162/">LinkedIn</a> | </p>
 
+## About Me
+
 I am a recent university graduate and since finishing my degree I have been learning to code, experimenting in Python, C++, JavaScript, Ruby and more recently in Java. I have a keen interest in finance, and how A.I. and machine learning can be used, in general, and more specifically in this context.
 
 Having just enrolled in Makers Academy, I am hoping to learn the fundamentals of software development, and gain & improve upon the skills required to work in this dynamic industry.
@@ -28,6 +30,7 @@ A 16 week intensive coding course, which includes and emphasises the following:
 
 | Project (Linked to Repo) | Timeframe | Description | Technologies used |
 | ------------------------ | --------- | ----------- | ----------------- |
+|[Bank Tech Test] (https://github.com/hjpugh/bank-tech-test-java)| 2 days| This was the project was my first ever experience with Java and was a mock tech test where the intention was to produce high quality, easy to understand, maintainable code. Given the short time-frame, and that I'd never used Java before, I was happy with the end product. |Java, Junit Gradle|
 
 
 #### University of Leeds (2014 - 2017)
