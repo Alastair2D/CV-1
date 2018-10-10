@@ -30,6 +30,8 @@ A 16 week intensive coding course, which includes and emphasises the following:
 
 | Project (Linked to Repo) | Timeframe | Description | Technologies used |
 | ------------------------ | --------- | ----------- | ----------------- |
+|[Acebook](https://github.com/hjpugh/acebook-PingPongAlmonds)| 2 weeks| This was the second group project which built on what we had already learnt, the intention being to buid a Facebook clone. It was implemented using Rails, and this was the first time anyone in the group had used it. Halfway through, we were told to seperate the front & back-end. This ws very useful as it taught us the basics of developing a RESTful API, and also allowed me to extend what I had already learnt in React, and teach the rest of the team at the same time.| Ruby, Rails, RSpec, Devise, JavaScript, React, Jest, Enzyme
+|[Makers BnB](https://github.com/hjpugh/makersbnb)| 1 week| This was the first ever group project that any of us had done. The task was to create a platform which emulates the functionality of Air BnB. In addition to being thoroughly enjoyable, it taught us a lot about best practices when it comes to working in a group.| Ruby, Sinatra, RSpec, PostgreSQL, Active Record
 |[Bank Tech Test](https://github.com/hjpugh/bank-tech-test-java)| 2 days| This was the project was my first ever experience with Java and was a mock tech test where the intention was to produce high quality, easy to understand, maintainable code. Given the short time-frame, and that I'd never used Java before, I was happy with the end product. |Java, Junit Gradle|
 
 
