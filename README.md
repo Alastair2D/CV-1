@@ -6,9 +6,7 @@
 
 ## About Me
 
-I am a recent Economics graduate and since finishing my degree I have been learning to code, experimenting in Python, C++, JavaScript, Ruby and more recently in Java. I have a keen interest in finance, and how A.I. and machine learning can be used, in general, and more specifically in this context.
-
-Having just enrolled in Makers Academy, I am hoping to learn the fundamentals of software development, and gain & improve upon the skills required to work in this dynamic industry.
+I am a recent Economics graduate and since finishing my degree I have been learning to code, experimenting in Python, C++, JavaScript, Ruby and more recently in Java. I have a keen interest in finance, and how A.I. and machine learning can be used both in general, and specifically in this context.
 
 I am looking to work in a forward-thinking, fast-paced environment where I can truly commit & contribute in a meaningful way. I am comfortable with being thrown in at the deep end, and would relish the opportunity to be somewhere where there is an emphasis on continuous learning. Additionally, I believe that my creative & driven approach to problem solving, and meticulous attention to detail would be an asset to any company.
 
