@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a recent university graduate and since finishing my degree I have been learning to code, experimenting in Python, C++, JavaScript, Ruby and more recently in Java. I have a keen interest in finance, and how A.I. and machine learning can be used, in general, and more specifically in this context.
+I am a recent Economics graduate and since finishing my degree I have been learning to code, experimenting in Python, C++, JavaScript, Ruby and more recently in Java. I have a keen interest in finance, and how A.I. and machine learning can be used, in general, and more specifically in this context.
 
 Having just enrolled in Makers Academy, I am hoping to learn the fundamentals of software development, and gain & improve upon the skills required to work in this dynamic industry.
 
@@ -19,12 +19,12 @@ I am looking to work in a forward-thinking, fast-paced environment where I can t
 A 16 week intensive coding course, which includes and emphasises the following:
 
 - OOP, TDD, MVC
-- Pair programming, and additionally group work in teams of 4-5
+- Pair programming, and group work in teams of 4-5
 - Agile methodologies
 - Extreme programming practices
 - Heavy focus on self-lead learning, which starts with fundamental principles to build upon.
 - Self reflection, in order to improve processes
-- Full-stack web development: Ruby, Rails, JavaScript, React, Java RSpec, Jasmine, Gradle, Junit, jQuery, node.js, PostgreSQL, Enzyme, Capybara, Selenium etc.
+- Full-stack web development: Ruby, JavaScript, Java, Rails, React, node.js, RSpec, Jasmine, Junit, Gradle, Enzyme, Capybara, Selenium, jQuery, PostgreSQL etc.
 
 ##### Projects from Makers Academy
 
@@ -51,17 +51,13 @@ A 16 week intensive coding course, which includes and emphasises the following:
 
 ## Skills
 
-#### Analytical Thinker
+#### Analytically Minded
 
-Having always had a strong interest in Mathematics and investing, my years spent at university studying Economics have allowed me to further my analytical understanding of the world. In addition to this I have been actively investing my savings in the stock market since the age of 18 to positive effect, and this has been brilliant in developing my understanding of risk management and the world of finance in general.
+I've always been interested in statistics and investing, my years spent at university studying Economics have allowed me to further my analytical understanding of the world. In addition to this I have been actively investing since the age of 18 to positive effect, and this has been brilliant for developing my understanding of risk management and the world of finance in general.
 
-TBC
+#### Passion for Learning
 
-#### Aptitude for Learning
-
-I am incredibly self-motivated with regard to learning about new topics, and take a very methodical approach to doing so, starting with the fundamental concepts to lay a foundation and building up from there. In my spare time, when not socialising with friends, I will typically be reading and learning about new concepts.
-
-TBC
+I am incredibly self-motivated with regard to learning about new topics, and take a very methodical approach to doing so, starting with the fundamental concepts to lay a foundation and building up from there. My time at Maker's Academy has given me confidence that I can learn any language going forward.
 
 ## Experience
 
