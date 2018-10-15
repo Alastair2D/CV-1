@@ -26,7 +26,7 @@ A 16 week intensive coding course, which includes and emphasises the following:
 
 ##### Recent Projects
 
-| Project (Linked to Repo) | Timeframe | Description | Technologies used |
+| Project | Timeframe | Description | Technologies Used |
 | ------------------------ | --------- | ----------- | ----------------- |
 |[Acebook](https://github.com/hjpugh/acebook-PingPongAlmonds)| 2 weeks| This was the second group project which built on what we had already learnt, the intention being to buid a Facebook clone. It was done using Rails, and this was the first time anyone in the group had used this. Halfway through, we were told to seperate the front & back-end. This ws very useful in teaching the basics of developing a RESTful API, and also allowed me to extend what I had already been doing in React.| Ruby, Rails, RSpec, Devise, JavaScript, React, Jest, Enzyme
 |[Makers BnB](https://github.com/hjpugh/makersbnb)| 1 week| This was the first ever group project that any of us had done. The task was to create a platform which emulates the functionality of Air BnB. In addition to being thoroughly enjoyable, it taught us a lot about best practices when it comes to working in a group.| Ruby, Sinatra, RSpec, PostgreSQL, Active Record
