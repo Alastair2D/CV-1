@@ -20,7 +20,7 @@ A 16 week intensive coding course, which includes and emphasises the following:
 - Pair programming, and group work in teams of 4-5
 - Agile methodologies
 - Extreme programming practices
-- Heavy focus on self-lead learning, which starts with fundamental principles to build upon.
+- Heavy focus on self-lead learning.
 - Self reflection, in order to improve processes
 - Full-stack web development: Ruby, JavaScript, Java, Rails, React, node.js, RSpec, Jasmine, Junit, Gradle, Enzyme, Capybara, Selenium, jQuery, PostgreSQL etc.
 
